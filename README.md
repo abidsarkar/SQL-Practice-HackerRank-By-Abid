@@ -15,11 +15,11 @@ This repository contains **complete solutions** to all **58 SQL problems** on Ha
 |:---------|:---------------:|:-----------------|
 | Basic Select | ✅ 20 / 20 | Easy |
 | Advanced Select | ✅ 5 / 5 | Medium – Hard |
-| Aggregation | ✅ 0 / 17 | Easy – Medium |
+| Aggregation | ✅ 1 / 17 | Easy – Medium |
 | Basic Join | ✅ 0 / 8 | Easy – Intermediate |
 | Advanced Join | ✅ 0 / 5 | Hard |
 | Alternative Queries | ✅ 0 / 3 | Easy – Medium |
-| **TOTAL** | **✅ 25 / 58** | |
+| **TOTAL** | **✅ 26 / 58** | |
 
 ---
 
