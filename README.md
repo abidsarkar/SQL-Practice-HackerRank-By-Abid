@@ -17,9 +17,9 @@ This repository contains **complete solutions** to all **58 SQL problems** on Ha
 | Advanced Select | ✅ 5 / 5 | Medium – Hard |
 | Aggregation | ✅ 17 / 17 | Easy – Medium |
 | Basic Join | ✅ 8 / 8 | Easy – Intermediate |
-| Advanced Join | ✅ 4 / 5 | Hard |
-| Alternative Queries | ✅ 0 / 3 | Easy – Medium |
-| **TOTAL** | **✅ 54 / 58** | |
+| Advanced Join | ✅ 5 / 5 | Hard |
+| Alternative Queries | ✅ 3 / 3 | Easy – Medium |
+| **TOTAL** | **✅ 58 / 58** | |
 
 ---
 
@@ -151,4 +151,4 @@ This repository contains **complete solutions** to all **58 SQL problems** on Ha
 
 ---
 
-## 📁 Folder Structure
+
